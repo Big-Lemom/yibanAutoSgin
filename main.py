@@ -53,7 +53,7 @@ for ac in account:
 
                     # 位置
 
-                    night_sgin = '{"Reason":"","AttachmentFileName":"","LngLat":"102.449018,24.875743","Address":"云南省 昆明市 安宁市县街街道昆明冶金高等专科学校-教学大楼 "}'
+                    night_sgin = '{"Reason":"","AttachmentFileName":"","LngLat":"102.512782,24.26177","Address":"云南省 玉溪市 玉溪市红塔区研和街道中村社区-家 "}'
 
                     # # 提交表单
                     sb_result = yiban.submitApply(task, extend)
